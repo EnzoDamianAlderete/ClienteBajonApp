@@ -1,0 +1,7 @@
+.head {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-bottom: 24px;
+  padding-left: 8px;
+}
